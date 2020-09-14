@@ -1,0 +1,94 @@
+.img{
+    height: 10;
+    width: auto;
+}
+.a1
+{
+    color: firebrick;
+    font-size: 40pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+.b1
+{
+    color:darkmagenta;
+    font-size: 25pt;
+    font-family: 'Roboto Condensed', sans-serif;
+   
+}
+.a2
+{
+    color: firebrick;
+    font-size: 40pt;
+    font-family: 'Roboto Condensed', sans-serif;
+   
+}
+.b2
+{
+    color: darkslategray;
+    font-size: 25pt;
+    font-family: 'Roboto Condensed', sans-serif;
+   
+}
+.c
+{
+    color:blue;
+    font-size: 30pt;
+    font-family: 'Fondamento', cursive;
+    font-family: 'Roboto Slab', serif;
+   
+}
+.p1
+{
+    
+    font-size: 20pt;
+    color: blanchedalmond;
+    background-color: #f4c430;
+}
+.p2
+{
+font-size: 20pt;
+color: blue;
+background-color: whitesmoke;
+}
+.p3
+{
+font-size: 20pt;
+color: white;
+background-color: darkgreen;
+}
+.l1
+{
+    word-spacing: 20px;
+    font-size: 25pt;
+    color: darkgreen;
+}
+.l2
+{
+word-spacing: 30px;
+font-size: 25pt;
+color: darkred;
+}
+.i1
+{
+max-width: 500px;
+
+}
+.i2
+{
+    max-width: 500px;
+}
+.t
+{
+    max-height: 250px;
+    max-width: 250px;
+    position: absolute;
+    right: 25%;
+}
+.sp
+{
+    font-size: 50pt;
+    position: absolute;
+    top: 5pt;
+    right: 10pt;
+}
